@@ -12,7 +12,7 @@
 - You must not create or submit unwanted email or comments to any room (“Spam”).
 - You must not transmit any worms or viruses or any code of a destructive nature.
 - You must not, in the use of Salad Room, violate any laws in your jurisdiction (including but not limited to copyright laws).
-- Violation of any of these agreements will result in the blocking your IP. While Salad Room prohibits such conduct and content on its site, you understand and agree that Salad Room cannot be responsible for the Content posted on its web site and you nonetheless may be exposed to such materials and that you use the Salad Room service at your own risk.
+- Violation of any of these agreements will result in blocking your IP. While Salad Room prohibits such conduct and content on its site, you understand and agree that Salad Room cannot be responsible for the Content posted on its web site and you nonetheless may be exposed to such materials and that you use the Salad Room service at your own risk.
 
 ## 1. Terms
 By accessing the website at https://saladroom.net, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
@@ -31,7 +31,7 @@ The materials on saladroom.net's website are provided on an 'as is' basis. salad
 Further, saladroom.net does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
 
 ## 4. Your Content
-“Your Content” shall mean any audio, video text, images or other material you choose to display and/or transfer on this Website. By displaying and/or transfering Your Content, you grant Salad Room a non-exclusive, worldwide irrevocable, sub licensable license to store, reproduce, and distribute securely to a designated pool of recipient(s) for a limited time.
+“Your Content” shall mean any audio, video text, images or other material you choose to display and/or transfer on this Website. By displaying and/or transferring Your Content, you grant Salad Room a non-exclusive, worldwide irrevocable, sub licensable license to store, reproduce, and distribute securely to a designated pool of recipient(s) for a limited time.
 Your Content must be your own and must not be invading any third-party’s rights. Salad Room reserves the right to remove any of Your Content from this Website at any time without notice and is not liable for any of Your Content that invades on third-party properties.
 
 ## 5. Limitations
