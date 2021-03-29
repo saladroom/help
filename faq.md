@@ -1,8 +1,6 @@
 # FAQ
 ## What is a public room?
-Public rooms are accessible to anyone who knows about your room code.
-
-Other people who visit Salad Room on the same network (on the same WiFi) as you will also have access to your room.
+Public rooms are accessible to anyone who knows about your room code. Other people who visit Salad Room on the same network (on the same WiFi) as you will also have access to your room.
 
 Public rooms are **not** listed on search engines. There is **no** list or directory of public rooms.
 
