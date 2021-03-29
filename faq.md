@@ -1,4 +1,11 @@
 # FAQ
+## What is a public room?
+Public rooms are accessible to anyone who knows about your room code.
+
+Other people who visit Salad Room on the same network (on the same WiFi) as you will also have access to your room.
+
+Public rooms are **not** listed on search engines. There is **no** list or directory of public rooms.
+
 ## How is my data stored?
 File data is stored in [Amazon S3](https://aws.amazon.com/s3/). Message data is stored using an in-memory store.
 
@@ -37,7 +44,7 @@ For each room, the limits are as follows:
 - 50 messages per room
 
 ## Why isn't Salad Room open source?
-Currently I don't have the time to maintain a [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) project. And I'd also like to see if there is a chance people would be willing to pay for advanced features. 
+Currently I don't have the time to maintain a [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) project. And I'd also like to see if there is a chance people would be willing to pay for advanced features.
 
 If that doesn't work out then I might look into it.
 
