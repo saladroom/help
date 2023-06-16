@@ -47,7 +47,9 @@ Currently I don't have the time to maintain a [FOSS](https://en.wikipedia.org/wi
 If that doesn't work out then I might look into it.
 
 ## Are there any alternatives?
-Yeah, and they are great! Check out [fileroom.io](https://fileroom.io) or set up something yourself with [Yopp](https://github.com/josephernest/Yopp).
+There are some P2P alternatives like [rDrop](https://rdrop.link/) or [ShareDrop](https://www.sharedrop.io/), however the most direct alternative was FileRoom, but it no longer exists.
+
+If you're up for setting something up yourself then [Yopp](https://github.com/josephernest/Yopp) is good.
 
 ## Where can I give feedback?
 Sure, feedback is greatly appreciated! DM [me on Twitter](https://twitter.com/anthonyec) or send an email to [support@saladroom.net](mailto:support@saladroom.net).
